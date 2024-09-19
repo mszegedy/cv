@@ -1,6 +1,6 @@
 navbar_entries:
   - title: home
-    url: "\"{{ \"/\" | relative_url }}\""
+    url: /
 
   - title: about me
     url: about

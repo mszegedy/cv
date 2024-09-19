@@ -1,8 +1,6 @@
 ---
 layout: post
-title: About
+title: About me
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+A short biography of me, with a photo of me in the header.

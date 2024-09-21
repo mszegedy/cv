@@ -31,6 +31,8 @@ hr.page-break {
 
 p { margin: 0.2em 0; }
 
+ul { margin: 0 0 0.1em 0; }
+
 li { margin: 0.4em 0; }
 
 .page-content {
@@ -45,6 +47,8 @@ li { margin: 0.4em 0; }
     --w-border: 4px;
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
+    gap: 0;
     height: auto;
     min-height: calc(100% - 2 * (var(--w-vpad)));
     max-width: 720px;
@@ -100,9 +104,8 @@ img {
 @mixin dark-appearance {
     html, body  {
         --headings: #d95fa0;
-        --links: #e87de4;
         --links: #3eeae3;
-        --highlight: #3ebae3;
+        --highlight: #e87de4;
         --bg: #00151fe0;
         --bg-secondary: #0a2c3d;
         --text: #ffd8ff;
@@ -160,6 +163,9 @@ blockquote {
 }
 a {
     color: var(--links);
+}
+a:hover {
+        color: var(--highlight);
 }
 *:target { background-color: var(--bg-secondary); }
 

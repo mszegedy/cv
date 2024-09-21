@@ -19,22 +19,35 @@ ul.horizontal-list {
 
 .card {
   padding: 1em;
-  border: 1px var(--text) solid;
+  border: 1px var(--links) solid;
   width: 11em;
   height: auto;
   text-align: center;
   font-size: 1em;
   align-items: center;
+  background-image:
+      linear-gradient(
+          to bottom,
+          var(--bg-secondary) 0%, var(--bg-secondary) 95%, var(--grad-3) 100%)
+  ;
+  background-image:
+      linear-gradient(
+          to bottom in oklab,
+          var(--bg-secondary) 0%, var(--bg-secondary) 95%, var(--grad-3) 100%)
+  ;
   background-color: var(--bg-secondary);
   margin-bottom: 0.8em;
   border-radius: 0.5em;
 
   .header {
-    color: var(--links);
+      color: var(--links);
+      font-size: 1.2em;
+      font-weight: bold;
   }
 
   .body {
-    font-size: 0.8em;
+      color: var(--links);
+    font-size: 0.9em;
   }
 
   hr {

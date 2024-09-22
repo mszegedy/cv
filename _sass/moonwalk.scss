@@ -209,12 +209,15 @@ html.transition *:after {
     flex-flow: column nowrap;
     justify-content: flex-start;
     width: fit-content;
+    background-color: var(--bg-secondary);
+    padding: 6px;
+    border-radius: 0.5em;
 }
-@media screen and (max-width: 720px) {
+@media screen and (min-width: 720px) {
     .navbar {
-        background-color: var(--bg-secondary);
-        padding: 6px;
-        border-radius: 0.5em;
+        background-color: transparent;
+        padding: 0;
+        border-radius: 0;
     }
 }
 .navbar-entry {

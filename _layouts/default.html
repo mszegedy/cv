@@ -6,16 +6,17 @@
       <div class="w">
         <header>
             {% if site.theme_config.show_navbar == true %}
-            <div class="navbar">
-                {% for item in site.data.home.navbar_entries %}
-                <div class="navbar-entry">
-                    <a href="{{ item.url | relative_url }}">
-                        {{ item.title }}
-                    </a>
+            <div class="header-image">
+                <div class="navbar">
+                    {% for item in site.data.home.navbar_entries %}
+                    <div class="navbar-entry">
+                        <a href="{{ item.url | relative_url }}">
+                            {{ item.title }}
+                        </a>
+                    </div>
+                    {% endfor %}
+                    <div class="navbar-entry divider"></div>
                 </div>
-                {% endfor %}
-                <div class="navbar-entry divider"></div>
-                <div class="header-image"></div>
             </div>
             {% endif %}
         </header>

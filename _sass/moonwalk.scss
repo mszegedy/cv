@@ -197,6 +197,13 @@ html.transition *:after {
 .theme-toggle:focus {
     outline: none;
 }
+.header-image {
+    width: 100%;
+    min-height: 113px;
+    background-image: url("#{$baseurl}/assets/images/header.png");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+}
 .navbar {
     display: grid;
     grid-auto-flow: row;
@@ -209,13 +216,6 @@ html.transition *:after {
     a {
         text-decoration: none;
     }
-}
-.header-image {
-    grid-column-start: 2;
-    grid-row: 1 / 999;
-    width: 480px;
-    min-height: 113px;
-    background-image: url("#{$baseurl}/assets/images/header.png");
 }
 .divider {
     border-top: 1px var(--text) solid;

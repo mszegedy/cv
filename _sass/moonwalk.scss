@@ -105,7 +105,7 @@ img {
     html, body  {
         --headings: #d95fa0;
         --links: #3eeae3;
-        --highlight: #e87de4;
+        --highlight: #fd80c0;
         --bg: #00151fe0;
         --bg-secondary: #0a2c3d;
         --text: #ffd8ff;
@@ -205,24 +205,29 @@ html.transition *:after {
     background-repeat: no-repeat;
 }
 .navbar {
-    display: grid;
-    grid-auto-flow: row;
-    justify-content: space-between;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    width: fit-content;
+}
+@media screen and (max-width: 720px) {
+    .navbar {
+        background-color: var(--bg-secondary);
+        padding: 6px;
+        border-radius: 0.5em;
+    }
 }
 .navbar-entry {
-    grid-column-start: 1;
-    grid-row: auto;
-    align-self: end;
     a {
         text-decoration: none;
     }
 }
 .divider {
-    border-top: 1px var(--text) solid;
+    border-top: 2px var(--grad-3) solid;
     margin: 0.5em 0;
 }
 .divider-link {
-    border-top: 1px var(--links) solid;
+    border-top: 2px var(--links) solid;
     margin: 0.5em 0;
 }
 mark {
@@ -280,6 +285,7 @@ p code, li code {
     max-width: inherit;
     font-size: 0.8em;
     margin: auto auto 0 auto;
+    padding-top: 1em;
     text-align: center;
     a {
         color: var(--text);

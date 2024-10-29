@@ -17,7 +17,7 @@ pre, code {
     font-size: 0.9rem;
 }
 
-h2, h3, h4, h5 { margin-top: 1.5em; }
+h1, h2, h3, h4, h5 { margin: 0.5em 0 0.3em 0; }
 
 hr { margin: 1em 0; }
 
@@ -86,18 +86,19 @@ img {
 }
 @mixin light-appearance {
     html, body {
-        --bg: #FFF;
-        --bg-secondary: #f3f4f6;
-        --headings: #1e293b;
-        --text: #374151;
-        --text-secondary: #6b7280;
-        --links: #6366f1;
-        --highlight: #FFECB2; // light yellow
+        --bg: #ffd8ffe0;
+        --bg-secondary: #f8d1f8;
+        --headings: #019fd0;
+        --text: #103248;
+        --text-secondary: #0ca3af;
+        --links: #bf4789;
+        --highlight: #00c3bd;
         --code-text: #9D174D;
-        --share-text: #999;
+        --share-text: #c4c4c4;
         --grad-1: #4570ab;
         --grad-2: #2e8fb0;
         --grad-3: #e37a9e;
+        --grad-4: #2e8fb0;
     }
 }
 // -------------- THEME SWITCHER -------------- //
@@ -109,12 +110,13 @@ img {
         --bg: #00151fe0;
         --bg-secondary: #0a2c3d;
         --text: #ffd8ff;
-        --text-secondary: #9CA3AF;
+        --text-secondary: #bf4789;
         --code-text: #91A7FF;
-        --share-text: #C4C4C4;
+        --share-text: #c4c4c4;
         --grad-1: #4570ab;
         --grad-2: #2e8fb0;
         --grad-3: #e37a9e;
+        --grad-4: #e37a9e;
     };
 }
 
@@ -228,7 +230,7 @@ html.transition *:after {
     }
 }
 .divider {
-    border-top: 2px var(--grad-3) solid;
+    border-top: 2px var(--grad-4) solid;
     margin: 0.5em 0;
 }
 .divider-link {
@@ -267,11 +269,24 @@ p code, li code {
     color: var(--code-text);
     font-weight: bold;
 }
+.aside {
+    margin: 0.25rem 1.5rem;
+    padding: 0.6rem;
+    border: 1px solid;
+    border-color: var(--text);
+    font-size: 0.9em;
+}
 .post-title {
     margin-bottom:-1.5rem;
 }
 .project-title {
     margin-bottom: 0.8rem;
+}
+.cv-title {
+    margin: 2rem 0 -0.5rem 0;
+    font-size: 1.6em;
+    font-variant: small-caps;
+    text-align: center;
 }
 .cvs {
     display: flex;

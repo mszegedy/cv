@@ -1,0 +1,11 @@
+<div class="job-entry">
+    <h4 class="job-entry-header">{{ include.title }}</h4>
+    {% if include.subtitle %}
+    <h5 class="job-entry-header">{{ include.subtitle }}</h5>
+    {% endif %}
+    <div class="job-entry-content">
+        <i>{{ include.location }}</i>
+        <span class="job-entry-divider"><b>&nbsp;|&nbsp;</b></span>
+        <i>{{ include.time }}</i>
+    </div>
+</div>

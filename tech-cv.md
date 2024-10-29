@@ -10,8 +10,7 @@ location="Issued 2024 May 10"
 time="Expires 2027 May 10" %}
 
 <div class="aside">Available <a
-href="assets/pdfs/aws-solutions-architect-assoc-cert.pdf"
-target="_blank">here.</a></div>
+href="assets/pdfs/aws-solutions-architect-assoc-cert.pdf">here.</a></div>
 
 {% include job_entry.html
 title="Bachelor of Science, in Biomedical Engineering"

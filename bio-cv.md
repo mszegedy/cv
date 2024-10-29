@@ -66,7 +66,7 @@ I finished both courses with one term paper exploring the viability of achieving
 nuclear reactions with biomolecular methods. I'm proud of this, since the first
 course applied to my biomedical engineering major, and the second course applied
 to my physics major; it felt good to bring the two together in one paper. It is
-available <a href="assets/pdfs/term-paper.pdf" target="_blank">here.</a></div>
+available <a href="assets/pdfs/term-paper.pdf">here.</a></div>
 
 **Biomed Eng Devices & Systems Lab:** Mashup of various BME benchwork tasks.
   Received C+.  

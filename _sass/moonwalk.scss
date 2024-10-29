@@ -298,9 +298,13 @@ p code, li code {
     margin: 0 auto;
     max-width: inherit;
     text-align: center;
+    ul {
+        justify-content: center;
+    }
 }
 .credits {
     align-self: flex-end;
+    clear: both;
     width: 100%;
     max-width: inherit;
     font-size: 0.8em;

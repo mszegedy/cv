@@ -1,5 +1,5 @@
 ---
-title: Maria Szegedy's BIO CV
+title: BIO&nbsp;CV — Maria Szegedy
 layout: cv
 ---
 
@@ -13,13 +13,14 @@ time="August 2021" %}
 - Additional major in Molecular Biology and Biochemistry
 - Additional major in Physics (professional option)
 
-Full transcript available on request.
+<div class="aside">Full transcript available on request.</div>
 
 # Publications
 Leman, J.K., Weitzner, B.D., Lewis, S.M. et al. Macromolecular modeling and
 design in Rosetta: new methods and frameworks. Nat Methods 17, 665–680 (2020).
+URL
 [https://doi.org/10.1038/s41592-020-0848-2](https://doi.org/10.1038/s41592-020-0848-2),
-free full text [here](https://europepmc.org/article/MED/32483333).
+free full text [here.](https://europepmc.org/article/MED/32483333)
 
 # Experience
 {% include job_entry.html
@@ -57,20 +58,27 @@ time="Fall 2014–Spring 2015" %}
 
 # Relevant coursework
 **Cytomechanics:** Biomolecular physics from a cytomechanics perspective. Reveived B+.  
-**Physics of Living Matter:** Biomolecular physics from a quantum mechanics and thermodynamics perspective. Received B.
+**Physics of Living Matter:** Biomolecular physics from a quantum mechanics and
+thermodynamics perspective. Received B.
 
 <div class="aside">The above graduate-level courses were my last two at Rutgers.
 I finished both courses with one term paper exploring the viability of achieving
 nuclear reactions with biomolecular methods. I'm proud of this, since the first
 course applied to my biomedical engineering major, and the second course applied
-to my physics major; it felt good to bring the two together in one paper. It is available <a href="assets/pdfs/term-paper.pdf">here.</a></div>
+to my physics major; it felt good to bring the two together in one paper. It is
+available <a href="assets/pdfs/term-paper.pdf">here.</a></div>
 
-**Biomed Eng Devices & Systems Lab:** Mashup of various BME benchwork tasks. Received C+.  
+**Biomed Eng Devices & Systems Lab:** Mashup of various BME benchwork tasks.
+  Received C+.  
 **Tissue Eng I:** Fundamentals of tissue engineering. Received A.  
-**Tissue Eng II:** Tissue engineering journal club with two presentations and an essay. Received A.  
+**Tissue Eng II:** Tissue engineering journal club with two presentations and
+  an essay. Received A.  
 **Mol Bio Biochem II:** Molecular biology. Received B+.  
 **Mol Bio Biochem Lab:** Basic molecular biology benchwork. Received A.  
-**Scientific and Technical Writing:** Wrote mock grant proposals and technical dissertations. Received B.  
-**Computer-based Experimentation in Physics:** Signal-processing benchwork and computation. Received A.  
-**Modern Physics Experimentation:** Intense, around-the-clock work with complex physics workflows and equipment. Received B+.
+**Scientific and Technical Writing:** Wrote mock grant proposals and technical
+  dissertations. Received B.  
+**Computer-based Experimentation in Physics:** Signal-processing benchwork and
+  computation. Received A.  
+**Modern Physics Experimentation:** Intense, around-the-clock work with complex
+  physics workflows and equipment. Received B+.
 

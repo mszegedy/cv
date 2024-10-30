@@ -53,6 +53,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-autoprefixer-v2 (2.0.0)
+      autoprefixer-rails (~> 10.4)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -97,9 +99,9 @@ PLATFORMS
   x86_64-linux-gnu
 
 DEPENDENCIES
-  autoprefixer-rails (~> 10.4)
   base64 (~> 0.2)
   csv (~> 3.3)
+  jekyll-autoprefixer-v2 (~> 2.0)
   logger (~> 1.6)
   moonwalk!
   ostruct (~> 0.6)

@@ -133,18 +133,41 @@ html[data-theme="light"] { @include light-appearance; }
 // -------------------------------------------- //
 
 html, body {
-    background-image:
-        linear-gradient(
-            to bottom,
-            var(--grad-1) 0%, var(--grad-2) 60%, var(--grad-3) 100%)
-    ;
-    background-image:
-        linear-gradient(
-            to bottom in oklab,
-            var(--grad-1) 0%, var(--grad-2) 60%, var(--grad-3) 100%)
-    ;
-    background-attachment: fixed;
     color: var(--text);
+}
+@media screen and (min-width: 200px) {
+    html, body {
+        background-image:
+            linear-gradient(
+                to bottom,
+                var(--grad-1) 0%, var(--grad-2) 60%, var(--grad-3) 100%)
+        ;
+        background-image:
+            linear-gradient(
+                to bottom in oklab,
+                var(--grad-1) 0%, var(--grad-2) 60%, var(--grad-3) 100%)
+        ;
+        background-attachment: fixed;
+    }
+}
+.bg {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    @media not screen, (max-width: 200px) {
+        background-image:
+            linear-gradient(
+                to bottom,
+                var(--grad-1) 0%, var(--grad-2) 60%, var(--grad-3) 100%)
+        ;
+        background-image:
+            linear-gradient(
+                to bottom in oklab,
+                var(--grad-1) 0%, var(--grad-2) 60%, var(--grad-3) 100%)
+        ;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
 }
 .w {
     background-color: var(--bg);

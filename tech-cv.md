@@ -96,8 +96,8 @@ Every entry is a story. You understand.</div>
 [**aenquiz (Perl):**](https://github.com/mszegedy/aenquiz)
   Command-line utility for learning Latin vocabulary. Completed.  
 **With Myself (Typescript + Vue + HTML + Rust):**
-  An avante-garde incremental game and immersive story, built in Profectus.
-  Ongoing, private.  
+  An avante-garde incremental game and immersive story, built in
+  [Profectus.](https://moddingtree.com/) Ongoing, private.  
 [**plea (SASS + Liquid):**](https://github.com/mszegedy/plea)
   A custom-built website for a web serial. Ongoing.  
 [**Me Kälemät (TeX + Python):**](https://gitlab.com/mszegedy/me-kaelemaet)

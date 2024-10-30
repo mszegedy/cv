@@ -79,7 +79,7 @@ ul.horizontal-list {
 }
 
 /* Responsive cards - one column layout on small screens */
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 750px) {
   ul.horizontal-list li.card {
     width: 100%;
     display: block;

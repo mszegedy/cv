@@ -32,7 +32,7 @@ time="Spring 2010–present" %}
 
 {% include job_entry.html
 title="Social work"
-time="Fall 2020–Fall 2021"%}
+time="2020–21"%}
 <div class="aside">I ran a suicide hotline for transgender clients in the second
 world. It went well, and my life wouldn't be what it is today without it, but
 for the sake of privacy, I would not like to go into detail.</div>

@@ -11,6 +11,7 @@ time="Fall 2016–Fall 2019" %}
 
 {% include job_entry.html
 title="Rutgers University Glee Club"
+location="Rutgers University, Mason Gross School of Arts, New Brunswick, NJ"
 time="Fall 2015–Spring 2019" %}
 {% include job_entry.html
 title="Alto II at Rutgers University Choir"
@@ -45,12 +46,12 @@ title="Visual design" %}
   but nothing special.
 
 {% include job_entry.html
-Title="Writing" %}
+title="Writing" %}
 - Trained in scientific and technical writing.
 -  Writing an ongoing web serial.
 
 {% include job_entry.html
-Title="Game Development" %}
+title="Game Development" %}
 - Made some non-commercial indie games.
 - Currently working on a puzzle/incremental game.
 

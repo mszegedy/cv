@@ -23,7 +23,7 @@ time="Fall 2019–Spring 2020" %}
 - Also play violin, accordion, and some piano.
 
 {% include job_entry.html
-title="Pretty good home cook"
+title="Proficient cook"
 time="Spring 2010–present" %}
 - Have made dinners for up to 80 people at a time.
 - Have accounted for up to 5 different dietary restrictions at a time.

@@ -3,9 +3,17 @@
     {% if include.subtitle %}
     <h5 class="job-entry-header">{{ include.subtitle }}</h5>
     {% endif %}
-    <div class="job-entry-content">
-        <i>{{ include.location }}</i>
-        <span class="job-entry-divider"><b>&nbsp;|&nbsp;</b></span>
-        <i>{{ include.time }}</i>
-    </div>
+    {% if include.location or include.time %}
+        <div class="job-entry-content">
+            {% if include.location %}
+                <i>{{ include.location }}</i>
+            {% endif %}
+            {% if include.location and include.time %}
+                <span class="job-entry-divider"><b>&nbsp;|&nbsp;</b></span>
+            {% endif %}
+            {% if include.time %}
+                <i>{{ include.time }}</i>
+            {% endif %}
+        </div>
+    {% endif %}
 </div>

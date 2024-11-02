@@ -320,6 +320,24 @@ p code, li code {
     width: 100%;
     max-width: inherit;
 }
+#portrait {
+    float: right;
+    width: 200px;
+    margin: 0.4rem;
+}
+@media (min-width: 320px) and (max-width: 750px) {
+    #portrait {
+        float: right;
+        width: 30vw;
+        margin: 0.4rem;
+    }
+}
+@media (max-width: 320px) {
+    #portrait {
+        width: 100%;
+        margin: 0.4rem 0;
+    }
+}
 .socmedia {
     margin: 0 auto;
     max-width: inherit;

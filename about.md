@@ -4,11 +4,17 @@ title: About me
 ---
 
 <picture id="portrait-container">
-  <source srcset="assets/images/portrait.webp">
+  <source
+    srcset="
+      assets/images/portrait-128px.webp 128w,
+      assets/images/portrait-256px.webp 256w,
+      assets/images/portrait-512px.webp 512w,
+      assets/images/portrait.webp"
+    sizes="40vmin" />
   <img
     id="portrait"
     src="assets/images/portrait.jpg"
-    alt="My portrait photo." >
+    alt="My portrait photo." />
 </picture>
 
 Hi! My name is Maria Szegedy. Most of my work skills involve either molecules or

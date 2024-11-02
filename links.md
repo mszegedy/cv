@@ -12,7 +12,10 @@ My other websites:
 Stuff I used to make this website:
 - [Moonwalk theme](https://github.com/abhinavs/moonwalk) for the underlying
   theme
+- [Emacs](https://www.gnu.org/software/emacs/) with
+  [Spacemacs](https://www.spacemacs.org/) as my text editor
 - [Inkscape](https://inkscape.org/) for the vector graphics
-- [Aseprite](https://github.com/aseprite/aseprite) for the raster graphics
+- [GIMP](https://www.gimp.org/) and
+  [Aseprite](https://github.com/aseprite/aseprite) for the raster graphics
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica/) for the original
   logo that the header image is based on

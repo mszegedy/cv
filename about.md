@@ -3,11 +3,10 @@ layout: post
 title: About me
 ---
 
-<picture>
+<p><picture id="portrait-container">
   <source srcset="assets/images/portrait.webp">
   <img
     id="portrait"
     src="assets/images/portrait.jpg"
     alt="My portrait photo." >
-</picture>
-A short biography of me, with a photo of me in the header.
+</picture> A short biography of me, with a photo of me in the header.</p>

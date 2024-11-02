@@ -3,17 +3,18 @@ layout: post
 title: About me
 ---
 
-<p><picture id="portrait-container">
+<picture id="portrait-container">
   <source srcset="assets/images/portrait.webp">
   <img
     id="portrait"
     src="assets/images/portrait.jpg"
     alt="My portrait photo." >
 </picture>
+
 Hi! My name is Maria Szegedy. Most of my work skills involve either molecules or
 computers; sometimes both. Having only recently graduated university, I haven't
 held a steady job yet, but I've done plenty of freelance and pro bono work here
-and there, even before graduation.</p>
+and there, even before graduation.
 
 I've lived in a lot of places and I'm part of a lot of cultures. I tend to use
 food, art, or stories as a way of connecting with new people I meet, because

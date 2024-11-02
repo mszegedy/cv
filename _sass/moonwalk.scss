@@ -58,6 +58,10 @@ li { margin: 0.4em 0; }
     border-width: 0 var(--w-border);
 }
 
+.content {
+    display: block;
+}
+
 table, th, td {
     width: 100%;
     border: thin solid black;
@@ -321,9 +325,10 @@ p code, li code {
     max-width: inherit;
 }
 #portrait-container {
+    display: block;
     float: right;
     width: 200px;
-    margin: 0.5rem;
+    margin: 0.8rem;
 }
 #portrait {
     width: 200px;

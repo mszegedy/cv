@@ -4,9 +4,13 @@ tex-title: TECH CV
 layout: cv
 ---
 
+<div class="button-card"><a href="tex/tech-cv.pdf">
+  pdf <span class="text-icon">&#xe171;</span>
+</a></div>
+
 # Education and certifications
 {% include job_entry.html
-title="AWS Certified Solutions Architect - Associate"
+title="AWS Certified Solutions Architect—Associate"
 location="Issued 2024 May 10"
 time="Expires 2027 May 10" %}
 

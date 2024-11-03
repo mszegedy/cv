@@ -1,0 +1,151 @@
+% tech-cv.tex
+% Maria Szegedy 2024
+% below is original header from back in like 2012 when i downloaded the template
+% this is distantly based on. minus the warning to use res.cls bc i rewrote this
+% with \documentclass{article} like a million years ago
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Graduate Curriculum Vitae
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%   PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{article}
+
+\usepackage[top=2cm,bottom=2cm,left=2cm,right=2cm]{geometry}
+\usepackage{fontspec}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage[dvipdfmx]{graphicx}
+
+\pagestyle{empty}
+\setlength\parindent{0pt}
+\linespread{1.15}
+\setitemize{noitemsep}
+\titlespacing*{\section}
+  {0pt}   % left margin
+  {1em} % top margin
+  {0.7em}   % bottom margin
+
+\setmainfont[
+  Path           = ./fonts/ ,
+  UprightFont    = * ,
+  SmallCapsFont  = *Caps ,
+  AutoFakeSlant  = 0.15 ,
+  AutoFakeBold   = 1.5 ,
+  Extension      = .otf ,
+  Ligatures      = TeX ,
+  Scale          = 1.2
+]{ScalaSans}
+
+\newcommand{\jobentry}[4]{%
+  {\it #1} \hfill #3 \\
+  #2
+
+  #4
+}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%   NAME AND ADDRESS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{tabularx}{\textwidth}{>{\centering\arraybackslash}X@{}r}
+  {\large\bf Maria Szegedy} &
+  \multirow{6}{*}{
+    \begin{tabular}{c}
+      See also my online CV: \\
+      \includegraphics[width=3.6cm]{qr.eps} \\
+      {\fontsize{12}{12} \texttt{https://mszegedy.github.io}}
+    \end{tabular}
+  } \\[0.6em]\cline{1-1}\vspace{0em}
+  {60 Franklin Drive} \\
+  {Hillsborough, New Jersey 08844} \\
+  {+1 (908) 642-4336} \\
+  {\fontsize{12}{12}%
+    $\underbrace{\texttt{mszegedy}}%
+    _{\textstyle\text{\makebox[0pt]{\fontsize{10}{10}\selectfont Github, Gitlab, Discord}}}%
+    \texttt{@tutanota.com}$
+  }
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%   EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section*{EDUCATION \& CERTIFICATIONS}
+
+{\it AWS Certified Solutions Architect---Associate} \\
+\hspace*{3em} Issued 2024 May 10 \\
+\hspace*{3em} Expires 2027 May 10 \\
+{\fontsize{9}{10}\selectfont
+  Available at
+  \texttt{https://mszegedy.github.io/cv/assets/pdfs/aws-solutions-architect-assoc-cert.pdf}.}
+
+\vspace{0.8em}
+
+{\it Bachelor of Science,} in Biomedical Engineering (Tissue Engineering and
+Molecular Bioengineering option) \\
+\hspace*{3em} Additional major in Molecular Biology and Biochemistry \\
+\hspace*{3em} Additional major in Physics (professional option) \\
+Rutgers University, New Brunswick, NJ, August 2021
+
+\section*{PUBLICATIONS}
+
+Leman,~J.K., Weitzner,~B.D., Lewis,~S.M. \textit{et al}. Macromolecular modeling
+and design in Rosetta: new methods and frameworks. \textit{Nat Methods}
+\textbf{17}, 665–680 (2020). doi: 10.1038/s41592-020-0848-2.
+
+%----------------------------------------------------------------------------------------
+%   PROFESSIONAL EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section*{EXPERIENCE}
+
+\jobentry{Research Assistant}
+  {Rutgers University, Department of Quantitative Biomedicine, Piscataway, NJ}
+  {2017--2020}{
+    \begin{itemize}
+      \item Research assistant to Professor Sagar Khare.
+      \item Used PyRosetta to investigate thermostability of certain designed
+        proteins.
+      \item Wrote API to allow use of molecular dynamics within Rosetta; presented
+        it at Rosetta\-Con 2018 and 2019.
+    \end{itemize}
+  }
+
+\jobentry{Programming Instructor \& Tutor}
+  {Rutgers IEEE N2E Coding Club, Rutgers University}
+  {Fall 2019--Spring 2020}{
+    \begin{itemize}
+      \item Gave weekly lessons on MATLAB to first years for N2E Coding Club.
+      \item Tutored biomedical engineering graduate students on Mathematica.
+    \end{itemize}
+  }
+
+\section*{RELEVANT COURSES}
+{\it Intro to Computing for Engineers:} \\
+  MATLAB. Received A. \\[0.2em]
+{\it Computer-based Experimentation in Physics:} \\
+  Signal-processing benchwork and computation. Received A. \\[0.2em]
+{\it Modern Physics Experimentation:} \\
+  Intense, around-the-clock work with complex physics workflows and equipment. Received B+.
+
+\end{document}

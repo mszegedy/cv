@@ -56,9 +56,9 @@ time="Fall 2014–Spring 2015" %}
 - Sequenced novel gene in duckweed.
 
 # Relevant coursework
-**Cytomechanics:** Biomolecular physics from a cytomechanics perspective.
+***Cytomechanics:*** Biomolecular physics from a cytomechanics perspective.
   Received B+.  
-**Physics of Living Matter:** Biomolecular physics from a quantum mechanics and
+***Physics of Living Matter:*** Biomolecular physics from a quantum mechanics and
   thermodynamics perspective. Received B.
 
 <div class="aside">The above graduate-level courses were my last two at Rutgers.
@@ -68,17 +68,17 @@ course applied to my biomedical engineering major, and the second course applied
 to my physics major; it felt good to bring the two together in one paper. It is
 available <a href="assets/pdfs/term-paper.pdf">here.</a></div>
 
-**Biomed Eng Devices & Systems Lab:** Mashup of various BME benchwork tasks.
+***Biomed Eng Devices & Systems Lab:*** Mashup of various BME benchwork tasks.
   Received C+.  
-**Tissue Eng I:** Fundamentals of tissue engineering. Received A.  
-**Tissue Eng II:** Tissue engineering journal club with two presentations and
+***Tissue Eng I:*** Fundamentals of tissue engineering. Received A.  
+***Tissue Eng II:*** Tissue engineering journal club with two presentations and
   an essay. Received A.  
-**Mol Bio Biochem II:** Molecular biology. Received B+.  
-**Mol Bio Biochem Lab:** Basic molecular biology benchwork. Received A.  
-**Scientific and Technical Writing:** Wrote mock grant proposals and technical
+***Mol Bio Biochem II:*** Molecular biology. Received B+.  
+***Mol Bio Biochem Lab:*** Basic molecular biology benchwork. Received A.  
+***Scientific and Technical Writing:*** Wrote mock grant proposals and technical
   dissertations. Received B.  
-**Computer-based Experimentation in Physics:** Signal-processing benchwork and
+***Computer-based Experimentation in Physics:*** Signal-processing benchwork and
   computation. Received A.  
-**Modern Physics Experimentation:** Intense, around-the-clock work with complex
+***Modern Physics Experimentation:*** Intense, around-the-clock work with complex
   physics workflows and equipment. Received B+.
 

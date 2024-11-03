@@ -1,5 +1,6 @@
 ---
 title: TECH&nbsp;CV — Maria Szegedy
+tex-title: TECH CV
 layout: cv
 ---
 
@@ -17,7 +18,6 @@ title="Bachelor of Science, in Biomedical Engineering"
 subtitle="Tissue Engineering and Molecular Bio-engineering option"
 location="Rutgers University, New Brunswick, NJ"
 time="August 2021" %}
-
 - Additional major in Molecular Biology and Biochemistry
 - Additional major in Physics (professional option)
 
@@ -53,7 +53,7 @@ Rosetta community, and is now a standard part of the Rosetta suite.</div>
 title="Programming Instructor and Tutor"
 location="Rutgers IEEE N2E Coding Club, Rutgers University"
 time="Fall 2019–Spring 2020" %}
-- Gave weekly lessons on MATLAB to freshmen for N2E Coding Club.
+- Gave weekly lessons on MATLAB to first years for N2E Coding Club.
 - Tutored biomedical engineering graduate students on Mathematica.
 
 # Relevant coursework
@@ -87,28 +87,28 @@ my favorite language, but I'd never recommend it for any modern task. And so on.
 Every entry is a story. You understand.</div>
 
 # Notable projects
-[**AMBRose (Python):**](https://gitlab.com/mszegedy/miniambrose)
+[***AMBRose (Python):***](https://gitlab.com/mszegedy/miniambrose)
   High-level wrapper around AMBER for Rosetta. Current version proprietary; link
   is to early, monolithic version. Handed off.  
-[**PAPERCLIP (Python):**](https://gitlab.com/mszegedy/paperclip)
+[***PAPERCLIP (Python):***](https://gitlab.com/mszegedy/paperclip)
   Command-line utility for producing high-level analyses with Rosetta and
   Matplotlib. Completed.  
-[**aenquiz (Perl):**](https://github.com/mszegedy/aenquiz)
+[***aenquiz (Perl):***](https://github.com/mszegedy/aenquiz)
   Command-line utility for learning Latin vocabulary. Completed.  
-**With Myself (Typescript + Vue + HTML + Rust):**
+***With Myself (Typescript + Vue + HTML + Rust):***
   An avante-garde incremental game and immersive story, built in
   [Profectus.](https://moddingtree.com/) Ongoing, private.  
-[**plea (SASS + Liquid):**](https://github.com/mszegedy/plea)
+[***plea (SASS + Liquid):***](https://github.com/mszegedy/plea)
   A custom-built website for a web serial. Ongoing.  
-[**Me Kälemät (TeX + Python):**](https://gitlab.com/mszegedy/me-kaelemaet)
+[***Me Kälemät (TeX + Python):***](https://gitlab.com/mszegedy/me-kaelemaet)
   A manual for a constructed language I made, with a halfway serious
   reconstruction of Proto-Uralic and a custom domain-specific language to handle
   the dictionary. Abandoned for now.  
-[**hansew (Rust):**](https://gitlab.com/mszegedy/uew)
+[***hansew (Rust):***](https://gitlab.com/mszegedy/uew)
   Vector graphics engine for new, idiosyncratic file format specification.
   Abandoned for now.  
-[**Mushroom Rebellion (WDC 65C816 ASM):**](https://github.com/mszegedy/mr)
+[***Mushroom Rebellion (WDC 65C816 ASM):***](https://github.com/mszegedy/mr)
   Super Mario World romhack. Abandoned for now.  
-**TBI simulation (MATLAB + Python):**
+***TBI simulation (MATLAB + Python):***
   BME senior design project at Rutgers on traumatic brain injury. Completed,
   private.

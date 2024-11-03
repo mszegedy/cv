@@ -10,7 +10,7 @@ title: About me
       assets/images/portrait-256px.webp 256w,
       assets/images/portrait-512px.webp 512w,
       assets/images/portrait.webp"
-    sizes="40vmin" />
+    sizes="40vw" />
   <img
     id="portrait"
     src="assets/images/portrait.jpg"

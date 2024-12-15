@@ -19,7 +19,7 @@ project_entries:
 
   - title: Extras
     url: extras
-    desc: Other things I have done, mostly out of necessity.
+    desc:
 
 footer_entries:
   - title: email

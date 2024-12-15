@@ -1,10 +1,10 @@
 ---
-title: TECH&nbsp;CV — Maria Szegedy
-tex-title: TECH CV
+title: SOFTWARE&nbsp;CV — Maria Szegedy
+tex-title: SOFTWARE CV
 layout: cv
 ---
 
-<div class="button-card"><a href="tex/tech-cv.pdf">
+<div class="button-card"><a href="tex/software-cv.pdf">
   pdf <span class="text-icon">&#xe171;</span>
 </a></div>
 

@@ -47,7 +47,5 @@ food and bubble tea, and to share it with others.
 Other hobbies of mine include various kinds of art. I make Discord emojis often
 (someone out there actually has a tattoo of one of those, which feels weird),
 and I have started video game projects again and again but never had enough
-stability in my life to finish them. I also write [a web
-serial,](https://mszegedy.github.io/plea) based on my experiences in Berkeley
-and Western Siberia. I hope once my situation is less chaotic, I will be able to
-devote more effort to these things.
+stability in my life to finish them. I hope once my situation is less chaotic,
+I will be able to devote more effort to these things.

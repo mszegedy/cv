@@ -3,7 +3,7 @@ author: Maria Szegedy
 url: https://mszegedy.github.io
 baseurl: /cv
 description: > # description of the site (multiple lines allowed)
-  I'm a biomolecular and tissue engineer, and an information technician. Also other things.
+  I'm a biomolecular and tissue engineer, and a software engineer. Also other things.
 
 permalink: /:slug
 

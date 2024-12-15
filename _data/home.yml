@@ -5,16 +5,13 @@ navbar_entries:
   - title: about me
     url: about
 
-  - title: links
-    url: links
-
 project_entries:
   - title: Bio CV
     url: bio-cv
     desc: Protein modelling and tissue engineering.
 
-  - title: Tech CV
-    url: tech-cv
+  - title: Software CV
+    url: software-cv
     desc: Cloud solutions and backend programming.
 
   - title: Extras

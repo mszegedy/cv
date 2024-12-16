@@ -17,35 +17,19 @@ title: About me
     alt="My portrait photo." />
 </picture>
 
-Hi! My name is Maria Szegedy. Most of my work skills involve either molecules or
-computers; sometimes both. Having only recently graduated university, I haven't
-held a steady job yet, but I've done plenty of freelance and pro bono work here
-and there, even before graduation.
+My name is Maria Szegedy. I am a graduate from Rutgers University with a triple
+major in biomedical engineering, molecular biology, and physics. I also have
+several qualifications in computer science, and a lifelong passion for both
+fields. Being early in my career, I have been focusing on gaining experience
+through freelance and pro-bono work, but I am now looking for a more permanent
+position. I also aspire to relocate to the United Kingdom to be closer to my
+family.
 
-I've lived in a lot of places and I'm part of a lot of cultures. I tend to use
-food, art, or stories as a way of connecting with new people I meet, because
-everyone has those and they're fun to trade. I'm not just here to do my job; I'm
-here to make friends with everyone I can, because I have learned that you should
-never turn down an opportunity to get to know others better, and because being
-surrounded by people who you understand and who understand you is healthy for a
-work environment.
-
-Currently, I live in New Jersey, where I've lived on and off for all my life,
-but I aspire to move to the UK eventually, where my loved ones are. Having spent
-a lot of my life on the road, I don't fear change, don't fear travel, and don't
-fear being stuck between worlds. If you need someone to plan trips or move
-house, I'm your girl. That said, I _am_ looking for stable employment with good
-benefits. I'm tired of not knowing where next month's rent is coming from.
-
-My most successful hobby is cooking. I learned to cook from Hungarians and a
-Southern Chinese chef, so, that is the sort of food I cook. The products of my
-efforts are hailed as very tasty and authentic by Chinese and Hungarians alike.
-Years from now, once I have gathered savings, I would like to open a noodle bar
-and bubble tea shop in Scotland. It is my greatest dream to always have tasty
-food and bubble tea, and to share it with others.
-
-Other hobbies of mine include various kinds of art. I make Discord emojis often
-(someone out there actually has a tattoo of one of those, which feels weird),
-and I have started video game projects again and again but never had enough
-stability in my life to finish them. I hope once my situation is less chaotic,
-I will be able to devote more effort to these things.
+I have lived in many different cultures and countries throughout my life, which
+I believe gives me vital experience collaborating with others and building
+strong relationships. It also equips me to handle change, travel, and
+instability whenever they arise in my work. Outside of my career, I am
+passionate about cooking, using it to connect with the cultures I have lived in.
+I have developed a culinary style from a blend of Hungarian and Southern Chinese
+cuisines, and I love cooking for others. Additionally, I enjoy video games and
+art, and have worked on various creative projects in my free time.
